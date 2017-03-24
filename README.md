@@ -3,7 +3,7 @@ Code By:
 
 توکن,ایدی,ایدی گروه در فایل کانفیگ وارد شود
 
-git clone https://github.com/SorBlack/pmresan.git
+git clone https://github.com/SorBlack/PmResan.git
 
 بسته های زیر نصب شوند
 
