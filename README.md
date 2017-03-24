@@ -1,10 +1,9 @@
-<a href="telegram.me/CleverGuy"><h1>CleverGuy</h1></a>
-<h2>payam resan umbrella team :D</h2><br><br><br>
-<h1><mark>نصب ربات</mark></h1>
-<pre>
+Code By:
+[@SorBlack](https://t.me/sorblack)
+
 توکن,ایدی,ایدی گروه در فایل کانفیگ وارد شود
 
-git clone https://github.com/TeleCleverGuy/PmResan.git
+git clone https://github.com/SorBlack/pmresan.git
 
 بسته های زیر نصب شوند
 
@@ -19,11 +18,7 @@ sudo luarocks install serpent
 و در اخر
 
 lua bot.lua
-</pre>
-<h1>چنل ما</h1>
-<a href="telegram.me/beyondteam"><h3>beyond</h3></a>
-<h1>خز کننده</h1>
-<a href="telegram.me/CleverGuy"><h3>CleverGuy</h3></a>
 
-سوالی بود در خدمتم
-موفق باشید
+[چنل ما](https://t.me/PrimeTeam)
+
+#For Help More Send Massage to `@PmSorBlack`= [@PmSorBlack](https://t.me/pmsorblackbot)
